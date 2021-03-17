@@ -1,0 +1,33 @@
+{
+  "private": true,
+  "name": "DeviHTML",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "author": "Techevo",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "browser-sync": "2.26.7",
+    "del": "4.1.1",
+    "gulp": "4.0.2",
+    "gulp-autoprefixer": "6.1.0",
+    "gulp-cached": "1.1.1",
+    "gulp-clean-css": "4.2.0",
+    "gulp-file-include": "2.0.1",
+    "gulp-if": "2.0.2",
+    "gulp-npm-dist": "1.0.3",
+    "gulp-replace": "1.0.0",
+    "gulp-sass": "4.0.2",
+    "gulp-uglify": "3.0.2",
+    "gulp-useref": "3.1.6"
+  },
+  "dependencies": {
+    "bootstrap": "4.3.1",
+    "jquery": "3.4.1",
+    "smooth-scroll": "16.0.3",
+    "owl.carousel2": "2.2.1",
+    "font-awesome": "4.7.0"
+  }
+}

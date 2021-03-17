@@ -1,0 +1,41 @@
+.owl-carousel-2 {
+    position: relative;
+}
+.owl-dots {
+    position: absolute;
+    display: flex;
+    left: 50%;
+    margin-top: -30px;
+}
+.owl-dot.active {
+    background: #7b7b7b;
+}
+.owl-dot {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: #e8e8e8;
+    margin: 2px;
+}
+.owl-carousel-1{
+    
+    .owl-dots{
+    position: absolute;
+    display: flex;
+    left: 47%;   
+    margin-top: 30px;
+    }
+}
+.form{
+    position: relative;
+}
+.form-control{
+    border-radius: 20px;
+}
+.btn{
+    position: absolute;
+    display: flex;
+    border-radius: 0px;
+    justify-content: center;
+
+}
